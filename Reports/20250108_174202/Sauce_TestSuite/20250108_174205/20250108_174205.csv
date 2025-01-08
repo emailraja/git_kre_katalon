@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sauce_TestSuite,,,,08-01-2025 17:42:12,08-01-2025 17:42:15,3.156s,FAILED
+,,,,,,,
+Test Cases/SAUCE/Login_TC_01,,,,08-01-2025 17:42:14,08-01-2025 17:42:14,0.106s,FAILED
+"openBrowser("""")",,,,08-01-2025 17:42:14,08-01-2025 17:42:14,0.074s,FAILED
+,,,,,,,
+Test Cases/SAUCE/Logout_TC_02,,,,08-01-2025 17:42:14,08-01-2025 17:42:15,0.219s,FAILED
+"verifyElementText(findTestObject(""Object Repository/Page_Swag Labs/div_Swag Labs""), ""Swag Labs"")",,,,08-01-2025 17:42:14,08-01-2025 17:42:15,0.152s,FAILED
