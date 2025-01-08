@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0749e64a-c3c7-44c0-bfcb-39a03a36743c</webElementGuid>
+      <webElementGuid>af33d2e0-7a84-491a-8755-872144259acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b7e397de-0237-48b8-b8d6-9b49f1053b3a</webElementGuid>
+      <webElementGuid>2465f736-d04e-4eaf-adf2-c71b55af9ad5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>dc6f34f5-ef87-4784-bdd0-eda622d03baf</webElementGuid>
+      <webElementGuid>1f1cf120-d8a4-4e9e-80d2-911776045a40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>45776804-8567-4b24-9e3d-96908877b15f</webElementGuid>
+      <webElementGuid>69ac57c0-7804-4471-a93e-16e12da8f277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>demo_username_label</value>
-      <webElementGuid>f9f1f231-9315-4302-8cc8-f1949c1223ae</webElementGuid>
+      <webElementGuid>99981ead-fd62-4efd-8ae4-eb837ea472ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>value</name>
       <type>Main</type>
       <value>John Doe</value>
-      <webElementGuid>2fa86c04-9237-4c64-93cb-7187f05e3030</webElementGuid>
+      <webElementGuid>142a6e8f-cc9a-4f64-a7e7-0d5be5c249ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-3 col-sm-6&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;alert alert-info&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>ea6e2799-a504-442b-baf1-937a3e442014</webElementGuid>
+      <webElementGuid>146ce9ab-7759-4257-ba94-68c704178fd6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='John Doe']</value>
-      <webElementGuid>d3a27072-f52d-45bd-a9e0-436083e38708</webElementGuid>
+      <webElementGuid>bca3f139-0816-4e74-a9aa-e2505af3924c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='login']/div/div/div[2]/form/div/div/div/div/input</value>
-      <webElementGuid>9c81bf96-db8c-4dc6-96c7-d69ffa41202c</webElementGuid>
+      <webElementGuid>b5c44dde-016c-4775-a6b8-d087984c8b56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>1ed4a351-c64b-4af2-a9d6-3de06479d6f4</webElementGuid>
+      <webElementGuid>0309005b-c8c9-40fa-aebb-8d5939a008f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Username']</value>
-      <webElementGuid>1e50b566-641f-4a56-8296-89690aafbaaf</webElementGuid>
+      <webElementGuid>652ddd61-15ee-4377-94d2-4372320f45d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
