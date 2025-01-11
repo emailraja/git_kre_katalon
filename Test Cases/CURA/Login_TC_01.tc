@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>2ac0072f-b906-45ff-bfe7-9e186c8b1348</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dacdb319-669c-46be-a8e3-3103bc1618c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>626fac0a-aa31-42e2-baa0-6ee5f367b7da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>dacdb319-669c-46be-a8e3-3103bc1618c8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>626fac0a-aa31-42e2-baa0-6ee5f367b7da</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>

@@ -27,13 +27,11 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), username)
 
-WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Password_password'), 'ThisIsNotAPassword')
+WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Password_password'), password)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control_1'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
